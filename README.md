@@ -95,7 +95,11 @@ Shows how the optimization progresses over time.
 Displays optimized key positions on the keyboard grid.
 
 ---
+## Setup
 
+```bash
+pip install -r requirements.txt
+```
 ## How to Run
 
 ```bash
